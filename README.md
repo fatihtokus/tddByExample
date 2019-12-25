@@ -350,7 +350,10 @@ public void transactions() {
    }
 }</code></pre>
 <!-- /wp:code -->
+<!-- wp:heading {"level":3} -->
+<h3>Final Thoughts</h3>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p> The source code of this project can be found on my <a href="https://github.com/fatihtokus/tddByExample">github page</a>. </p>
+<p>  That’s the end of the exercise. I hope you enjoyed it and were able to learn something new. The most important take-away from this exercise is to take small steps!  The source code of this project can be found on my <a href="https://github.com/fatihtokus/tddByExample">github page</a>. </p>
 <!-- /wp:paragraph -->
