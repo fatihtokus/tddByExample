@@ -352,5 +352,5 @@ public void transactions() {
 <!-- /wp:code -->
 
 <!-- wp:paragraph -->
-<p> The source code of this project can be found on my <a href="https://github.com/fatihtokus">github page</a>. </p>
+<p> The source code of this project can be found on my <a href="https://github.com/fatihtokus/tddByExample">github page</a>. </p>
 <!-- /wp:paragraph -->
